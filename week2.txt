@@ -1,0 +1,41 @@
+Homework:
+1. Math.random() - https://www.geeksforgeeks.org/java-math-random-method-examples/
+2. Primitive vs Reference data types - https://stackoverflow.com/questions/8790809/whats-the-difference-between-primitive-and-reference-types
+3. Type conversions - https://www.geeksforgeeks.org/type-conversion-java-examples/
+4. Loops - for, for each, while. Break, continue
+5. Sorting algorithms - insertion, selection, bubble sort. Visualization - https://visualgo.net/bn/sorting?slide=1
+6. Arrays - initializing, indexes, read/write cell, iteration 
+7. Methods signature: access modifiers, structure, return type
+8. Repeat all code from classwork in visualizer	
+	
+Exercises:
+1. http://codingbat.com/java/Array-1 (tasks 1-9) - can be done in IDEA
+2. Найти минимальное и максимальное значения в массиве и вывести их на консоль
+3. Поменять местами наибольший и наименьший элементы в массиве
+4. Заданы два массива одинаковой длинны с любыми значениями скопировать данные из первого массива во второй
+5. Посчитать сколько цифр(цифра задается пользователем) в массиве
+6. Заполнить массив случайными значениями. На четных индексах парные значения, на нечетных непарные
+7. Найти среднее арифметическое массива
+8. Вывести в консоль элементы той половины одномерного массива у которой среднее арифметическое максимальное
+9. Eсть два массива одинаковой длины arr1 и arr2 вывести в консоль значения массива, который получается в результате суммы arr1[i] + arr2[i]
+10. Задать два массива случайными числами от 25 до 75. Определить у какого из массивов больше парных елементов.
+10. public static int[] splitArray(int[] arr, int start, int end) 
+	{ // обрезать массив по границам start и end
+	}
+
+
+11. String introduction
+	1) http://codingbat.com/doc/java-string-introduction.html
+	2) http://codingbat.com/doc/java-string-substring.html
+	3) String methods - substring(), contains(), indexOf(), length(), isEmpty(), lastIndexOf(), replace(), replaceAll(), toLowerCase(), toUpperCase(), toCharArray(), trim(). split().
+
+12. http://codingbat.com/java/Array-2 (tasks 1-9)
+13. http://codingbat.com/java/String-1 (tasks 1-9)
+
+Additional: 
+1. http://codingbat.com/java/String-2 (tasks 1-9) 
+2. Инвертировать массив (без использования допольнительного массива)
+3. Проверить или является число простым
+4. Посчитать колличество букв 'a' в строке (искомый символ может быть разным)
+5. Сдвинуть массив на заданное количество позиций // {1,2,3,4,5} -> 2 = {4,5,1,2,3}; {1,2,3,4,5} -> 3 = {3,4,5,1,2}. Количество позиций и массив указывает пользователь
+6. Заменить в строке все символы 'a' на '@' и вывести новую строку // "array is a data type" -> "@rr@y is @ d@t@ type"
