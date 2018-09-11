@@ -2,9 +2,9 @@ Homework:
 1. Math.random() - https://www.geeksforgeeks.org/java-math-random-method-examples/
 2. Primitive vs Reference data types - https://stackoverflow.com/questions/8790809/whats-the-difference-between-primitive-and-reference-types
 3. Type conversions - https://www.geeksforgeeks.org/type-conversion-java-examples/
-4. Loops - for, for each, while. Break, continue
+4. Loops - for, for each, while, do while. Break, continue
 5. Sorting algorithms - insertion, selection, bubble sort. Visualization - https://visualgo.net/bn/sorting?slide=1
-6. Arrays - initializing, indexes, read/write cell, iteration 
+6. Arrays - initializing, indecies, read/write from/to cell, iteration 
 7. Methods signature: access modifiers, structure, return type
 8. Repeat all code from classwork in visualizer	
 	
